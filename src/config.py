@@ -1,0 +1,4 @@
+DATA_DIR        = 'data'
+ACCOUNTS_FILE   = f'{DATA_DIR}/accounts.json'
+ARR_ALERT_FLOOR = 10_000
+RENEWAL_LOOK_AHEAD_DAYS = 90
